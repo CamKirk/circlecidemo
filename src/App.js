@@ -8,7 +8,7 @@ import Card from './Componets/Card';
 
 
 class App extends Component {
-  render() {
+  rendr() {
     return (
       <Layout>
         <Header title="Baby Hippo Gram"/>
